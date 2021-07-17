@@ -31,7 +31,7 @@ main{
 }
 #Texto > a{
     transition-property: background-color;
-    transition-duration: 400ms;
+    transition-duration: 0.25s;
     transition-timing-function: ease;
 
     position: absolute;
